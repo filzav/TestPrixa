@@ -2,7 +2,7 @@
 Kode ini dibuat untuk menyelesaikan automation dari https://platform.kata.ai/login dan https://user.kata.ai/signup/
 
 ## Getting Started
-Terdapat dua buah kode yaitu loginAutomation.py untuk halaman login serta registerAutomation.py untuk halaman register
+Terdapat dua buah kode yaitu loginAutomation.py untuk halaman login serta registerAutomation.py untuk halaman register. Serta terdapat Test Case & Matrix.docx untuk folder Test Case serta Requirement Traceability Matrix dan Test Coverage Matrix
 
 ### Prerequisites
 Pada bagian ini akan dijelaskan apa saja yang perlu diinstall untuk menjalankan kode ini
